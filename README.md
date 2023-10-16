@@ -11,4 +11,3 @@
 - ⚡ Fun fact **I'm not really selling money**  
   
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isellfreemoney&show_icons=true&theme=dark&locale=en" alt="isellfreemoney" /></p>
